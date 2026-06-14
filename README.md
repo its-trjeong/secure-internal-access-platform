@@ -43,14 +43,3 @@ NAT Gateway, private route tables, VPN, bastion hosts, and VPC endpoints are not
     |-- outputs.tf
     |-- versions.tf
     `-- README.md
-```
-
-## Usage
-
-```bash
-cd terraform
-terraform init
-terraform fmt -recursive
-terraform validate
-terraform plan
-```
